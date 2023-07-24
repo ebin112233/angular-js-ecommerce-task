@@ -1,0 +1,10 @@
+[
+    { "id": 1, "name": "Iphone 14", "price": 10.99, "quantity": 5,"imageUrl":"image1.png" },
+    { "id": 2, "name": "Iphone 14Pro", "price": 49.99, "quantity": 3,"imageUrl":"image1.png" },
+    { "id": 3, "name": "Iphone 14Pro Max", "price": 59.99, "quantity": 3,"imageUrl":"image1.png" },
+    { "id": 4, "name": "Samsung M21", "price": 69.99, "quantity": 3,"imageUrl":"image1.png" },
+    { "id": 5, "name": "Samsung S22", "price": 79.99, "quantity": 3,"imageUrl":"image1.png" },
+    { "id": 6, "name": "Samsung s23", "price": 99.99, "quantity": 3,"imageUrl":"image1.png" },
+    { "id": 7, "name": "Samsung s23", "price": 109.99, "quantity": 3,"imageUrl":"image1.png" },
+    { "id": 8, "name": "Samsung s23", "price": 129.99, "quantity": 3,"imageUrl":"image1.png" }
+]
